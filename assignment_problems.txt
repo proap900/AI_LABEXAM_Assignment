@@ -1,0 +1,15 @@
+AI Lab Examination Topics
+
+PROLOG Programming:
+
+1.⁠ ⁠Defining relationship rules in a family tree
+2.⁠ ⁠Implementing routing in directed and undirected graphs
+3.⁠ ⁠Generating numerical or pattern-based series
+
+
+Heuristic Search and Machine Learning: 
+4.⁠ ⁠Designing heuristics for the 8-puzzle problem
+5.⁠ ⁠Creating heuristics for box arrangement tasks
+6.⁠ ⁠Implementing k-Nearest Neighbours (kNN) using 2 or 3 features
+7.⁠ ⁠Training a perceptron for logic gates and linear equation solution 
+8.⁠ ⁠Applying linear regression on datasets with 2 or 3 features
